@@ -1,0 +1,20 @@
+body {
+	color: #333; /* color: #333333; */
+	/* color: #abc -> color: #aabbcc */
+}
+
+.post {
+	/* mb1em */
+	margin-bottom: 1em;
+	/* p1em */
+	padding: 1em;
+	/* bd+ */
+	border: 1px solid #000;
+	/* bdrs1m */
+	border-radius: 1m;
+}
+
+.field {
+	color: #eee;
+	background-color: #333;
+}
